@@ -50,17 +50,15 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://day.js.org/docs/en/get-set/hour
+https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys
 
 https://day.js.org/docs/en/display/format
 
-https://fontawesome.com/
+https://icons.getbootstrap.com/
 
-https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction
 
-https://www.w3schools.com/jquery/event_ready.asp
-
-https://www.w3schools.com/jsref/jsref_split.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 
 License
