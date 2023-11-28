@@ -4,9 +4,9 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-A daily planner was created with HTML, JavaScript, Bootstrap, JQuery, and Dayjs libraries to add important events.
+A weather dashboard was created with HTML, Server-side APIs, JavaScript, Bootstrap, JQuery, and Dayjs libraries to retrieve and display data.
 
-A great way to manage time effectively with colour coded time blocks.
+A great way to get the weather outlook for different cities in case the user wishes to plan a trip.
 
 
 Installation
@@ -18,19 +18,13 @@ To access the project, please enter the Live Page URL found below.
 
 Usage
 
-The user will be able to see the current date and time once the planner is opened.
+The user will be given an input form on the landing page to type in the city in which they wish to see a 5-day forecast of.
 
-There are time slots in which the user may input their important event that they wish to have saved.
+Once the magnifying button has been clicked, the user will be displayed the CURRENT weather, temperature, wind speed, humidity, and UV index.
 
-The time slots are color coded in relative to the current time of the user:
+Below that information, the user will be given the forecast for the next 5 days (including current day).
 
-Grey: Past
-
-Red: Current Hour
-
-Green: Future
-
-Once the user inputs their event, they may click on the save button within that timeblock to have it saved in local storage.
+The city will be saved into the users Local Storage and can be clicked upon in the future to check the weather.
 
 
 Live URL:
