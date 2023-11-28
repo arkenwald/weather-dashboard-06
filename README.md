@@ -29,15 +29,19 @@ The city will be saved into the users Local Storage and can be clicked upon in t
 
 Live URL:
 
-
+https://arkenwald.github.io/weather-dashboard-06/
 
 GitHub Repository:
 
-
+https://github.com/arkenwald/weather-dashboard-06
 
 Screenshot of Live Page:
 
 
+![screenshotlanding](https://github.com/arkenwald/weather-dashboard-06/assets/149994852/a22e68f6-2e73-41cc-a4a3-317c317b1710)
+
+
+![screenshotsavedlocalstorage](https://github.com/arkenwald/weather-dashboard-06/assets/149994852/854fd298-a28d-42f3-8e0a-ab6db7d4fb8d)
 
 
 
