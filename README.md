@@ -29,15 +29,14 @@ The city will be saved into the users Local Storage and can be clicked upon in t
 
 Live URL:
 
-https://arkenwald.github.io/work-day-scheduler/
+
 
 GitHub Repository:
 
-https://github.com/arkenwald/work-day-scheduler
+
 
 Screenshot of Live Page:
 
-<img width="960" alt="screenshot1" src="https://github.com/arkenwald/work-day-scheduler/assets/149994852/8b29d2f5-793b-456a-9472-6e72800a863c">
 
 
 
